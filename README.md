@@ -1,6 +1,8 @@
 # TP1-Intro.Syst.Info
 
+TP réalisé avec  APPLAGNAT-TARTET Lucie
+
 * choix du sujet SNK
 * recherche sur le sujet
 * depot fichier html et css
-* accès à la page : http://tp1isilampsnk.pbworks.com/w/page/142480998/FrontPage#view=page
+* accès à la page : http://lucie.alwaysdata.net/
