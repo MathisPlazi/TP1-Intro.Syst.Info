@@ -6,4 +6,4 @@ TP réalisé avec  APPLAGNAT-TARTET Lucie
 * recherche sur le sujet
 * depot fichier html et css
 * accès à la page : http://lucie.alwaysdata.net/
-* Recherche TP2
+* Recherches TP2
